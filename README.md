@@ -1,2 +1,2 @@
 # TallerGit 
-..
+Bienvenidos a Git  
